@@ -6,4 +6,4 @@ import os
 def test_homework():
     """Test"""
 
-    assert os.path.exists("files/output/stocks.png")
+    assert os.path.exists("files/input/output/stocks.png")
